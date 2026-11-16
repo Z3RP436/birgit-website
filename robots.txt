@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://buerofee-online.de/sitemap.xml
